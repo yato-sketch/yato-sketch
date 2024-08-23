@@ -18,7 +18,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yato-sketch&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yato-sketch&locale=en&hide_title=false&hide=html,css,cmake,scss,shell,javascript,makefile&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yato-sketch&locale=en&hide_title=false&hide=html,css,cmake,scss,shell,javascript,makefile,Bicep&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
