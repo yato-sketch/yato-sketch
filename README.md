@@ -22,9 +22,9 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/yato-sketch" target="_blank">
+<!--   <a href="https://github.com/yato-sketch" target="_blank">
     <img src="https://img.shields.io/github/followers/yato-sketch?label=Follow%20Me&style=social" alt="GitHub Followers" />
-  </a>
+  </a> -->
   <a href="https://github.com/yato-sketch?tab=repositories" target="_blank">
     <img src="https://img.shields.io/github/stars/yato-sketch?label=Star%20My%20Repos&style=social" alt="GitHub Stars" />
   </a>
