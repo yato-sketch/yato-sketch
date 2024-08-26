@@ -15,16 +15,16 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yato-sketch&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Graph" />
+  <!-- <img src="https://streak-stats.demolab.com?user=yato-sketch&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Graph" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yato-sketch&locale=en&hide_title=false&hide=html,css,cmake,scss,shell,javascript,makefile,Bicep&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages Graph" />
 </div>
 
 ###
 
 <div align="center">
-<!--   <a href="https://github.com/yato-sketch" target="_blank">
+  <a href="https://github.com/yato-sketch" target="_blank">
     <img src="https://img.shields.io/github/followers/yato-sketch?label=Follow%20Me&style=social" alt="GitHub Followers" />
-  </a> -->
+  </a>
   <a href="https://github.com/yato-sketch?tab=repositories" target="_blank">
     <img src="https://img.shields.io/github/stars/yato-sketch?label=Star%20My%20Repos&style=social" alt="GitHub Stars" />
   </a>
